@@ -1,2 +1,2 @@
 # AlkadBypass
-Alkad Bypass by BuzzerFelix... Enjoy
+Alkad Bypass for Game Rust by BuzzerFelix... Enjoy
