@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\BuzzerFelix\source\repos\AlkadBypass\AlkadBypass\main_proc.h(4,26): warning C4081: требуется ":"; обнаружен "::"
+  AlkadBypass.vcxproj -> C:\Users\BuzzerFelix\source\repos\AlkadBypass\Debug\AlkadBypass.exe
