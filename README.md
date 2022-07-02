@@ -1,6 +1,8 @@
 # AlkadBypass
 Alkad Bypass for Game Rust by BuzzerFelix... Enjoy
 
-# Support me Pls
+# Donation
 
 [Ko-Fi](https://ko-fi.com/buzzerfelix_official)
+
+Patreon Don't worked yet :( 
